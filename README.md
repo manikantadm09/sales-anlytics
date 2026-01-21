@@ -66,6 +66,13 @@ This analysis helps restaurants:
 
 ---
 
+## 🚀 Actionable Recommendations
+Based on the data, the following strategic moves are recommended:
+* **Staffing Optimization:** Increase floor staff by 20% during the 1 PM and 9 PM peaks to handle the identified volume spikes.
+* **Menu Engineering:** Create "Biryani Bundles" to pair the high-volume Non-Veg Biryani with low-volume, high-margin Veg Starters.
+* **Digital Growth:** Since 90% of revenue is digital (PhonePay/Online), implement a digital-only loyalty program to capture the remaining cash users.
+* **Discount Control:** Limit deep discounts (>₹200) as they show diminishing returns on revenue compared to the ₹50-100 sweet spot.
+
 ## How to Run
 ```bash
 git clone https://github.com/manikantadm09/sales-analytics.git
