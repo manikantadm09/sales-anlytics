@@ -21,7 +21,7 @@ The analysis is designed to support **business and operational decision-making**
 ## Dashboards & Insights
 
 ### 1. Executive Business Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/executive_overview.png.png)
 
 **Insights**
 - Total revenue of ₹6.84M with a profit margin of 7%
@@ -31,7 +31,7 @@ The analysis is designed to support **business and operational decision-making**
 ---
 
 ### 2. Product & Pricing Analytics
-![Product & Pricing](screenshots/product_pricing_analytics.png)
+![Product & Pricing](screenshots/product_pricing_analytics.png.png)
 
 **Insights**
 - Non-Veg Biryani is the highest revenue-generating category
@@ -41,7 +41,7 @@ The analysis is designed to support **business and operational decision-making**
 ---
 
 ### 3. Time & Customer Insights
-![Time & Customer](screenshots/time_customer_insights.png)
+![Time & Customer](screenshots/time_customer_insights.png.png)
 
 **Insights**
 - Order volume spikes align with staffing-intensive hours
